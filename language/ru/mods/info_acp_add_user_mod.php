@@ -56,7 +56,7 @@ $lang = array_merge($lang, array(
 	'EDIT_USER_GROUPS'			=> '%sЧтобы редактировать группы пользователя, нажмите сюда%s',
 	'GROUP_ADD'					=> 'Выбранные здесь группы будут присвоены пользователю, дополнительно к группе зарегистрированных пользователей',
 
-	'CONTINUE_EDIT_USER'		=> '%1$sНажмите сюда чтобы управлять %2профилем $s%3$s', // e.g.: Click here to edit Joe’s profile.
+	'CONTINUE_EDIT_USER'		=> '%1$sНажмите сюда чтобы управлять профилем %2$s%3$s', // e.g.: Click here to edit Joe’s profile.
 	'LOG_USER_ADDED'			=> '<strong>Новый пользователь создан</strong><br />» %s',
 	'PASSWORD'					=> 'Пароль',
 	'PASSWORD_EXPLAIN'			=> 'Если вы не введёте пароль здесь, он будет сгененрирован автоматически.',
